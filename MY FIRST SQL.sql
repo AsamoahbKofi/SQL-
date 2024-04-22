@@ -11,6 +11,8 @@ INSERT INTO students VALUES(2,"Jeff","Sociology",3.1);
 INSERT INTO students VALUES(3,"Kevin","Science",2.2);
 INSERT INTO students(student_id,name,Gpa) VALUES(4,"Albert",1.2);
 INSERT INTO students(student_id,name,Gpa) VALUES(5,"Jefftah",3.2);
+INSERT INTO students VALUES(6,"James","Language",2.5);
+INSERT INTO students VALUES(7,"Spencer","Comp science",1.2);
 
 select* FROM students;
 update students
